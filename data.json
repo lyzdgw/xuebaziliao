@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "测试资料示例",
+    "grade": "三年级",
+    "subject": "科学",
+    "edition": "教科版",
+    "type": "课件",
+    "coverImg": "https://s2.loli.net/2025/01/10/xxxx.jpg",
+    "quarkUrl": "https://pan.quark.cn/s/xxxxxxx"
+  }
+]
